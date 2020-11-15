@@ -12,8 +12,10 @@ cycler==0.10.0
 distlib==0.3.1
 dj-database-url==0.5.0
 Django==2.2
+django-cors-headers==2.2.0
 django-crispy-forms==1.9.2
 django-ratings==0.3.7
+djangorestframework==3.12.2
 dominate==2.5.2
 et-xmlfile==1.0.1
 filelock==3.0.12
@@ -50,6 +52,8 @@ parse==1.16.0
 pepdocs==0.1.1
 Pillow==7.2.0
 pluggy==0.13.1
+# Editable install with no version control (project==1.0)
+-e e:\python\realpython\materials-master\python-sqlite-sqlalchemy
 protobuf==3.13.0
 psycopg2==2.8.5
 psycopg2-binary==2.8.6
