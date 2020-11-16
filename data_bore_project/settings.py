@@ -72,7 +72,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = (
     'localhost:8000/',
-    #'data-bore-dashboard.herokuapp.com/',
+    'data-bore-dashboard.herokuapp.com/',
 )
 
 ROOT_URLCONF = 'data_bore_project.urls'
